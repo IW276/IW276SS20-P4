@@ -2,10 +2,7 @@
 
 3D-Personendaten aus einem 2D-Bild ohne Tiefendaten zu erlangen, ist zurzeit noch schwierig. Mithilfe von neuronalen Netzwerken wird dies jedoch vereinfacht. Ziel ist es nun, herauszufinden, ob in mit Hilfe eines Jetson Nano zufriedenstellende Ergebnisse erzielt werden können. Dabei werden sowohl die Genauigkeit der Ergebnisse als auch die Performance des mobilen Einplatinen-Computer getestet.
 
-<p align="center">
-  Screenshot / GIF <br />
-  Link to Demo Video
-</p>
+![screenshot](img/screenshot.png)
 
 > This work was done by Marc Schuler & Robert Fuchs during the IWI276 Autonome Systeme Labor at the Karlsruhe University of Applied Sciences (Hochschule Karlruhe - Technik und Wirtschaft) in SS 2020.
 
@@ -26,7 +23,6 @@
 - OpenCV >=4.0
 - Jetson Nano 
 - Jetpack 4.2
-> [Optional] ...
 
 ## Prerequisites
 
@@ -70,11 +66,9 @@ Here is a list with some useful links and tips:
   cp -r /usr/local/lib/python3.6/dist-packages/torchvision ~/3d-human-pose-estimation/venv/lib/python3.6/site-packages/
   ```
 
-
 ## Pre-trained models <a name="pre-trained-models"/>
 
 Pre-trained model is available at `models/human-pose-estimation-3d.pth`.
-
 
 ## Running
 
@@ -107,4 +101,5 @@ This repo is based on
 Thanks to the original authors for their work!
 
 ## Contact
+
 Please email `mickael.cormier AT iosb.fraunhofer.de` for further questions.
