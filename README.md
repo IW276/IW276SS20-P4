@@ -1,9 +1,10 @@
-# 3D Human Pose Estimation (Jetson Nano) 
+# IW276SS20P4 - 3D Human Pose Estimation (Jetson Nano) 
 
 3D-Personendaten aus einem 2D-Bild ohne Tiefendaten zu erlangen, ist zurzeit noch schwierig. Mithilfe von neuronalen Netzwerken wird dies jedoch vereinfacht. Ziel ist es nun, herauszufinden, ob in mit Hilfe eines Jetson Nano zufriedenstellende Ergebnisse erzielt werden können. Dabei werden sowohl die Genauigkeit der Ergebnisse als auch die Performance des mobilen Einplatinen-Computer getestet.
 
 ![screenshot](img/screenshot.png)
-
+ [Link to Demo Video](https://youtu.be/oFePhQfEH3s)
+ 
 > This work was done by Marc Schuler & Robert Fuchs during the IWI276 Autonome Systeme Labor at the Karlsruhe University of Applied Sciences (Hochschule Karlruhe - Technik und Wirtschaft) in SS 2020.
 
 ## Table of Contents
